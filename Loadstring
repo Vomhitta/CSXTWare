@@ -1,0 +1,5 @@
+elseif game.placeId == 3297964905 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vomhitta/CSXTWare/main/Weaponary"))()
+else
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vomhitta/CSXTWare/main/Universal%20CSXTWare"))()
+end
